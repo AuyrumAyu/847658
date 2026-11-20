@@ -53,4 +53,3 @@ jobs:
           name: Aetherium Overlord build ${{ github.run_number }}
           files: build/libs/*.jar
           prerelease: false
-          
